@@ -11,7 +11,6 @@
 # x = float(input("Введіть число: "))
 # y = float(input("Введіть число: "))
 # a = float(input("Введіть число: "))
-
 # b = (x + y + a) / 3
 # print(b)
 
