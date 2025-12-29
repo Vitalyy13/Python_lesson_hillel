@@ -50,3 +50,4 @@ f_1 = Fraction(2, 4)
 f_2 = Fraction(3, 6)
 assert f_1 == f_2  # True
 print('OK')
+
